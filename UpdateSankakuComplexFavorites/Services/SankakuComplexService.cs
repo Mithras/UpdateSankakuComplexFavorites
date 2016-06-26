@@ -1,9 +1,9 @@
 ﻿using System;
 using System.IO;
 using System.Threading.Tasks;
-using MithrasSoftware.UpdateSankakuComplexFavorites.ServiceAgents;
+using MithrasSoft.UpdateSankakuComplexFavorites.ServiceAgents;
 
-namespace MithrasSoftware.UpdateSankakuComplexFavorites.Services
+namespace MithrasSoft.UpdateSankakuComplexFavorites.Services
 {
     public class SankakuComplexService
     {

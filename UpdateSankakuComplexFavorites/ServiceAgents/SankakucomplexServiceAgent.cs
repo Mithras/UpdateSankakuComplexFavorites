@@ -6,7 +6,7 @@ using System.Net.Http.Headers;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace MithrasSoftware.UpdateSankakuComplexFavorites.ServiceAgents
+namespace MithrasSoft.UpdateSankakuComplexFavorites.ServiceAgents
 {
     public class SankakucomplexServiceAgent : IDisposable
     {

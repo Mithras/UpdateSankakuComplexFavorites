@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 
-namespace MithrasSoftware.UpdateSankakuComplexFavorites.Services
+namespace MithrasSoft.UpdateSankakuComplexFavorites.Services
 {
     public class SankakuComplexFavoritesDataSource
     {

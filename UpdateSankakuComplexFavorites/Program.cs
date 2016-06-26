@@ -4,10 +4,10 @@ using System.IO;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
-using MithrasSoftware.UpdateSankakuComplexFavorites.ServiceAgents;
-using MithrasSoftware.UpdateSankakuComplexFavorites.Services;
+using MithrasSoft.UpdateSankakuComplexFavorites.ServiceAgents;
+using MithrasSoft.UpdateSankakuComplexFavorites.Services;
 
-namespace MithrasSoftware.UpdateSankakuComplexFavorites
+namespace MithrasSoft.UpdateSankakuComplexFavorites
 {
     class Program
     {
